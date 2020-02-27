@@ -1,1 +1,11 @@
 В ветке master в файле README.txt присутствует уточнение о пуговицах в файле human.txt, в отличие от ветки origin/demo.
+Комментарии коммитов (кроме этого):
+hometask
+Merge branch 'boots_buttons'
+Merge remote-tracking branch 'origin/hat'
+Merge remote-tracking branch 'origin/buttons' into boots_buttons
+Merge remote-tracking branch 'origin/boots' into boots_buttons
+fix readme
+dots
+heat added
+init
